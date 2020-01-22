@@ -1,4 +1,6 @@
-class Solution {
+package search;
+
+class Exam_test {
     public int[] solution(int[] answers) {
         int[] answer = {};
         

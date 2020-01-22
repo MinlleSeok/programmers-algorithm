@@ -1,6 +1,8 @@
+package heap;
+
 import java.util.*;
 
-class Solution {
+class More_spicy {
     public int solution(int[] scoville, int K) {
         
         int answer = -1;
