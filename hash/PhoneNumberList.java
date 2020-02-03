@@ -1,3 +1,5 @@
+package hash;
+
 import java.util.*;
 
 class PhoneNumberList {
@@ -7,8 +9,9 @@ class PhoneNumberList {
     Arrays.sort(phone_book);
     
     for (int i = 0; i < phone_book.length - 1; i++) {
-      if (phone_book[i + 1].startsWith(phone_book))
-        return false;
+      // String a = phone_book[i + 1];
+      // if (a.startsWith(phone_book))
+      //   return false;
     }
     return answer;
   }
