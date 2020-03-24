@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CycleRemove",
+            "request": "launch",
+            "mainClass": "graph.CycleRemove",
+            "projectName": "programmers-algorithm_1c2fe6a8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TravelPath",
+            "request": "launch",
+            "mainClass": "dfs.TravelPath",
+            "projectName": "programmers-algorithm_1c2fe6a8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WayToSchool",
+            "request": "launch",
+            "mainClass": "dp.WayToSchool",
+            "projectName": "programmers-algorithm_1c2fe6a8"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BubbleSort",
             "request": "launch",
             "mainClass": "javabook.BubbleSort",
